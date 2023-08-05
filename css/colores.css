@@ -1,0 +1,14 @@
+.color{
+  
+    color: tomato;
+}
+.verde{
+
+    color: rgb(60, 179, 113);
+}
+.celeste{
+    color:  #00b4ff;
+}
+header {
+    display: block;
+  }

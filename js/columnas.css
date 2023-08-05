@@ -1,0 +1,19 @@
+nav{
+    
+    background: rgb(221, 167, 85);
+    padding: 20px;
+    width: 100%;
+
+    
+}
+.columna{
+    background: rgb(194, 142, 151);
+    color: white;
+    padding: 20px;
+    width: 25%;
+    margin: 10px;
+}
+.padre{
+
+    display: flex;
+}
